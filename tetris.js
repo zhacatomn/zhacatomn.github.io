@@ -246,7 +246,7 @@ game.add_elements(function () {
         content: "<span style='text-align: center;'>Score: <br> 0 </span>",
         style: {
             "border": "1px solid black",
-            "fontFamily": "FFF Forward",
+            "fontFamily": "Century Gothic",
             "display": "flex",
             "justifyContent": "center",
             "alignItems": "center"
@@ -263,7 +263,7 @@ game.add_elements(function () {
                 h: unit_length,
                 content: "<span style='text-align: center;'>Next Piece</span>",
                 style: {
-                    "fontFamily": "FFF Forward",
+                    "fontFamily": "Century Gothic",
                     "display": "flex",
                     "justifyContent": "center",
                     "alignItems": "center"
