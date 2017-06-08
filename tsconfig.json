@@ -1,0 +1,10 @@
+{
+	"compilerOptions":{
+		"outFile": "tetris.js",
+		"target": "es5"
+	},
+	"files": [
+		"library.ts",
+		"tetris.ts"
+	]
+}
